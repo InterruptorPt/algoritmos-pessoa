@@ -5,6 +5,7 @@
 Este repositório contém o código do artigo do Interruptor. Está escrito em Python3.
 
 ### Bibliotecas/pacotes de software necessários para executar este código:
+- [Jupyter Notebook](https://jupyter.org/)
 - [GNU Wget](https://www.gnu.org/software/wget/)
 - [pandas](https://pandas.pydata.org/)
 - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
