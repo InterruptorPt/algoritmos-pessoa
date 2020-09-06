@@ -1,6 +1,6 @@
 # Consegue um algoritmo distinguir os vários heterónimos de Pessoa?
 
-Este repositório contém o código desenvolvido para [este artigo do Interruptor](https://interruptor.pt/artigos/algoritmos-fernando-pessoa), que versa sobre a utilização de processamento de linguagem natural na distinção de heterónimos de Fernando Pessoa. Está escrito em Python3. Inclui:
+Este repositório contém o código desenvolvido para [este artigo do Interruptor](https://interruptor.pt/artigos/conseguem-algoritmos-distinguir-heteronimos-fernando-pessoa), em que exploramos vários modelos de processamento de linguagem natural na distinção de heterónimos de Fernando Pessoa. Está escrito em Python3. Inclui:
 
 - [Criação de conjunto de dados](/como-criar-conjunto-de-dados.ipynb)
 - [Conjunto de dados com a obra completa de Fernando Pessoa](/textos-pessoa.csv)
