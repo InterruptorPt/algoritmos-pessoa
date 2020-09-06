@@ -19,9 +19,8 @@ Este repositório contém o código desenvolvido para [este artigo do Interrupto
 - [Gensim](https://radimrehurek.com/gensim/)
 - [PyLDAvis](https://github.com/bmabey/pyLDAvis)
 
-## Licenças
+## Licença
 
 O código é partilhado sob uma licença  [GNU GPL-3.0](https://github.com/InterruptorPt/pessoa/blob/master/LICENSE).
-O conjunto de dados é partilhado sob uma licença [Open Data Commons Attribution](https://opendatacommons.org/licenses/by/index.html).
 
 
